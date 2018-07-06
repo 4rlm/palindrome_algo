@@ -6,5 +6,9 @@ require "palindrome_algo/solver"
 require 'pry'
 
 module PalindromeAlgo
-  # Your code goes here...
+
+  def self.parse(args={})
+    palindrome_hash = self::Solver.new.run_palindrome(args)
+  end
+
 end
