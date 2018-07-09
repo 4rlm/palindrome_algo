@@ -1,9 +1,7 @@
-RSpec.describe PalindromeAlgo do
-  it "has a version number" do
-    expect(PalindromeAlgo::VERSION).not_to be nil
-  end
+require 'palindrome_algo'
+require 'spec_helper'
+# require 'crm_formatter'
 
-  it "does something useful" do
-    expect(false).to eq(true)
-  end
+RSpec.describe PalindromeAlgo do
+  # let(:obj) { AnagramAlgo }
 end
