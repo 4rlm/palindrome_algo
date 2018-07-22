@@ -1,5 +1,6 @@
 # PalindromeAlgo
 
+[![Build Status](https://travis-ci.org/4rlm/palindrome_algo.svg?branch=master)](https://travis-ci.org/4rlm/palindrome_algo)
 [![Gem Version](https://badge.fury.io/rb/palindrome_algo.svg)](https://badge.fury.io/rb/palindrome_algo)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
